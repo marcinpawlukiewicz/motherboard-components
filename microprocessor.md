@@ -13,9 +13,12 @@ It takes binary input, executes mentioned above operations by its arithmetical a
 There are few benefits of microprocessors. First of all, they are very cheap and so overall the use of a microprocessor comes with price reduction for our computer. Microprocessors are fast, some can reach even up to billion operation per second and with that they consume very little power. Their size allowed us to place them into portable devices such as laptops, smartphones or even watches. Lastly, their failure rate is extremely low and they can be used for plenty of application[^2]. 
 
 Below there are few examples of microprocessors.
-![This is an image](images/apple.png)
-![This is an image](images/intel7.png)
-![This is an image](images/amd.png)
+![This is an image](images/apple.png)[^4]
+![This is an image](images/intel7.png)[^6]
+![This is an image](images/amd.png)[^5]
 [^1]:https://turbofuture.com/computers/the-motherboard-components
 [^2]:https://www.brainspire.com/blog/what-is-a-microprocessor-and-how-does-it-work
 [^3]:Butterfield, A., & Szymanski, J. E. (2018). A dictionary of electronics and electrical engineering. Oxford University Press.
+[^4]:https://appleinsider.com/articles/10/04/02/inside_the_ipad_apples_a4_processor
+[^5]:https://www.amd.com/
+[^6]:https://www.notebookcheck.net/Intel-Core-i7-1065G7-A-65-W-Ice-Lake-CPU.428176.0.html
