@@ -1,0 +1,14 @@
+# Table of contents
+# Learn more at https://jupyterbook.org/customize/toc.html
+
+format: jb-book
+root: README
+chapters:
+- file: microprocessor
+- file: computermemory
+- file: bios
+- file: cmosbattery
+- file: cachememory
+- file: expansionbuses
+- file: chipset
+- file: cpuclock
