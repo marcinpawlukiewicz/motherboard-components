@@ -1,6 +1,6 @@
 # The Expansion Buses
 
-An expansion bus, typically made up of a series of slots on the motherboard, allows the CPU to communicate with peripheral devices (input/output). They are essential as basic PC system does not have all the features. The expansion buses allow us for adding additional attributes to our PC such as sound cards, video cards, SCSI controller cards, network interference cards[^1].
+An expansion bus, typically made up of a series of slots on the motherboard, allows the CPU to communicate with peripheral devices (input/output). They are essential as a basic PC system does not have all the features. The expansion buses allow for adding additional attributes to our PC such as sound cards, video cards, SCSI controller cards, network interference cards[^1].
 
 - There are several different expansion buses that provide different features.
 - Industry Standard Architecture (ISA)
@@ -8,7 +8,7 @@ An expansion bus, typically made up of a series of slots on the motherboard, all
 - Peripheral Component Interconnect (PCI)
 - PCI Express (PCI-X)[^2]
 
-ISA provides a basic route for the input/output devices that are attached to the motherboard to communicate with different circuits or other devices attached to the same motherboard[^3]. AGP is for additional graphics and it can assist in acceleration of 3D graphics[^4]. The most common is PCI which allows to add-on controller cards and other devices to a computer motherboard[^5].  PCI-X has similar function as PCI (uses the same protocol) but it has an additional expansion card[^6]. 
+ISA provides a basic route for the input/output devices that are attached to the motherboard to communicate with different circuits or other devices attached to the same motherboard[^3]. AGP is for additional graphics and it can assist in acceleration of 3D graphics[^4]. The most common is PCI which allows to add on controller cards and other devices to a computer motherboard[^5].  PCI-X has similar function as PCI (uses the same protocol) but it has an additional expansion card[^6]. 
 
 ![](images/buses.jpeg) [^7]
 
